@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DevPython/DevPython.iml" filepath="$PROJECT_DIR$/DevPython/DevPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pythonLearning.iml" filepath="$PROJECT_DIR$/pythonLearning.iml" />
+    </modules>
+  </component>
+</project>
